@@ -1,0 +1,1 @@
+{"database_name": "test_db", "tables": {"users": {"columns": [{"name": "id", "type": "INT", "primary_key": true}, {"name": "username", "type": "VARCHAR(50)"}]}}}
