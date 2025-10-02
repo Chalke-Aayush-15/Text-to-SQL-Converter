@@ -6,7 +6,7 @@
 Text-to-SQL Converter System
 Converts natural language questions into SQL queries using transformer models.
 
-Author: Your Name
+Author: Aayush Chalke
 Version: 1.0
 """
 
