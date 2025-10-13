@@ -2,21 +2,21 @@
 # Python 3.8+ required
 
 # Core Dependencies
-torch>=2.0.0
-transformers>=4.30.0
-sentencepiece>=0.1.99
+torch
+transformers
+sentencepiece
 
 # Web Interface
-streamlit>=1.28.0
+streamlit
 
 # Utilities
-numpy>=1.24.0
-pandas>=2.0.0
+numpy
+pandas
 
 # Optional: For GPU support (uncomment if you have CUDA)
 # torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
 
 # Development Dependencies (optional)
-pytest>=7.4.0
-black>=23.7.0
-flake8>=6.1.0
+pytest
+black
+flake8
